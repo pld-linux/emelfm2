@@ -7,7 +7,7 @@ License:	GPL
 Group:		X11/Applications
 Source0:	http://emelfm2.net/rel/%{name}-%{version}.tar.gz
 # Source0-md5:	da39b1d017366fb41700c5d40365a1ae
-URL:		http://emelfm.sourceforge.net/
+URL:		http://emelfm2.net/
 BuildRequires:	gettext-devel
 BuildRequires:	gtk+2-devel >= 2:2.4.0
 BuildRequires:	pkgconfig
