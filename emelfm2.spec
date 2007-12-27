@@ -1,12 +1,12 @@
 Summary:	File manager using the two-pane design and Gtk+
 Summary(pl.UTF-8):	Zarządca plików oparty na bibliotece GTK+
 Name:		emelfm2
-Version:	0.3.3
+Version:	0.3.6
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://emelfm2.net/rel/%{name}-%{version}.tar.gz
-# Source0-md5:	6ce56f2d4d0dc9bd2cacd5dabaa49c0a
+# Source0-md5:	cc00361a117e48823bf5bd7da5d729e0
 URL:		http://emelfm2.net/
 BuildRequires:	gettext-devel
 BuildRequires:	gcc >= 5:3.2
