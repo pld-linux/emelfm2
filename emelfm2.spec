@@ -8,7 +8,7 @@ Group:		X11/Applications
 Source0:	http://emelfm2.net/rel/%{name}-%{version}.tar.bz2
 # Source0-md5:	8490d501e19009860f53ac6a98db74c1
 URL:		http://emelfm2.net/
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	gcc >= 5:3.2
 BuildRequires:	gtk+2-devel >= 2:2.6.0
 BuildRequires:	pkgconfig
